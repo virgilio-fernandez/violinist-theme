@@ -1,0 +1,18 @@
+{
+  "name": "violinist",
+  "version": "1.0.0",
+  "description": "[![Build Status](https://travis-ci.org/Automattic/_s.svg?branch=master)](https://travis-ci.org/Automattic/_s)",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass ./sass/style.scss ./style.css",
+    "sass:watch": "sass --watch ./sass:./"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.72.0"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.3"
+  }
+}

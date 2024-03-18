@@ -1,0 +1,39 @@
+/* Typography
+--------------------------------------------- */
+@import "typography/typography";
+
+/* Elements
+--------------------------------------------- */
+@import "elements/body";
+@import "elements/hr";
+@import "elements/lists";
+@import "elements/media";
+@import "elements/tables";
+
+/* Links
+--------------------------------------------- */
+@import "elements/links";
+
+/* Forms
+--------------------------------------------- */
+@import "elements/buttons";
+@import "elements/fields";
+
+h1,h2,h3 {
+    font-family: "Cinzel Decorative", serif;
+}
+.display-1,
+.display-2,
+.display-3 {
+    font-family: "Great Vibes", cursive;
+}
+
+p {
+    font-family: "Lora", serif;
+}
+
+.cinzel {
+    font-family: "Cinzel Decorative", serif;
+}
+
+
